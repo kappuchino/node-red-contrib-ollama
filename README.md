@@ -1,8 +1,6 @@
-<p align="center">
-  <img src="https://github.com/jakubburkiewicz/node-red-contrib-ollama/raw/0.1.0/node-red-contrib-ollama-logo.png" alt="Logo">
-</p>
+# Experimental change to config nodes and params within the node elements.
 
-# node-red-contrib-ollama
+## node-red-contrib-ollama
 
 Add AI functionality to your flows! This module includes a set of nodes that enable easy communication with Ollama, enriching your projects with intelligent solutions.
 
